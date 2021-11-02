@@ -1,6 +1,11 @@
 # awesome-archive-dex
 Awesome Archive of Assets on Decentralised Exchanges
 
+## Order Book Approach
+- Market orders are transactions meant to execute as quickly as possible at the current market price. 
+- Limit orders have made centralized exchanges more convenient and profitable than DEXes 
+- You can submit an order to buy or sell a token only if it falls or rises to your desired price.
+
 ## AMM Approach 
 - Modern DEXs run on automated market maker protocols, doing away with order books and providing liquidity via pools of trading pairs. 
 - Anyone is able to contribute their assets to these liquidity pools; 
